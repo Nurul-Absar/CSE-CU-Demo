@@ -5,4 +5,4 @@ It is a demo website of CSE-CU only using table and inner css.A beginner web des
 
 
 #CSE-CU-DEMO website link:
-https://nurul-absar.github.io/CSE-CU-Demo/.
+https://nurul-absar.github.io/CSE-CU-Demo/practise.html
